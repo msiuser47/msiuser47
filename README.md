@@ -3,10 +3,7 @@
 # Hi there 👋
 
 ### Cybersecurity Graduate | Penetration Testing · Network Security · SOC & Threat Analysis
-<--
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url])
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]([your-tryhackme-url]) --!>
+
 [![eJPTv2](https://img.shields.io/badge/Certified-eJPTv2-red?style=for-the-badge)](#)
 
 </div>
@@ -47,7 +44,7 @@ This profile is a snapshot of that work: hands-on labs, defensive builds, and st
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
 
 **Frameworks & Methodologies**
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-C6262E?style=flat-square)
@@ -58,7 +55,7 @@ This profile is a snapshot of that work: hands-on labs, defensive builds, and st
 
 ## 📌 Featured Projects
 
-### 🏝️ [TryHackMe: Hacker Holidays 2026 — The Byte Lotus](https://github.com/msiuser47/Hacker-Holidays-2026-The-Byte-Lotus)
+### 🏝️ [TryHackMe: Hacker Holidays 2026 - The Byte Lotus]([https://github.com/msiuser47/Hacker-Holidays-2026-The-Byte-Lotus](https://github.com/msiuser47/TryHackMe/blob/main/events/Hacker-Holidays-2026/README.md)
 Full writeups and analysis for a 14-challenge security advent-style CTF, completed 14/14 (Very Easy → Hard). Every challenge follows a consistent pentest-report structure: **Overview → Analysis → Root Cause → Exploitation → Remediation**.
 
 `AI Prompt Injection` `OSINT` `SSTI` `NoSQL Injection` `Zip Slip / RCE` `API Race Conditions` `AWS IAM Abuse` `Azure Key Vault & Managed Identity` `PCAP Forensics` `DPAPI Credential Recovery`
