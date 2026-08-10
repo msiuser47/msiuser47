@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi there 👋
 
 ### Cybersecurity Graduate | Penetration Testing · Network Security · SOC & Threat Analysis
-
+<--
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email])
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url])
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]([your-tryhackme-url])
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]([your-tryhackme-url]) --!>
 [![eJPTv2](https://img.shields.io/badge/Certified-eJPTv2-red?style=for-the-badge)](#)
 
 </div>
