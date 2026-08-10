@@ -62,21 +62,21 @@ Full writeups and analysis for a 14-challenge security advent-style CTF, complet
 
 ---
 
-### 🎯 [CyberVulnLab](https://github.com/msiuser47/cybervulnlab)
+### 🎯 [CyberVulnLab](https://github.com/msiuser47/CyberVulnLab)
 A deliberately vulnerable Flask web application built for teaching offensive and defensive web security. Each lab pairs a vulnerable route with a fixed route side by side, plus a full writeup covering root cause, attack steps, and defenses.
 
 `SQL Injection` `Stored XSS` `IDOR` `OWASP Top 10` `Flask` `Secure Code Patterns`
 
 ---
 
-### 🏦 [Secure Banking Database System](https://github.com/msiuser47/secure-banking-database)
+### 🏦 [Secure Banking Database System](https://github.com/msiuser47/Secure-Banking-Database-System)
 A MySQL-based banking database designed around core database security principles: encrypted account balances (AES), salted SHA-256 password hashing, Role-Based Access Control, audit logging, and trigger-based intrusion detection for suspicious large withdrawals.
 
 `MySQL` `RBAC` `AES Encryption` `SQL Injection Mitigation` `Audit Logging` `Intrusion Detection Triggers`
 
 ---
 
-### 🌐 [Secure Network Design — pfSense](https://github.com/msiuser47/secure-network-pfsense)
+### 🌐 [Secure Network Design — pfSense](https://github.com/msiuser47/Secure-Network-with-pfSense)
 A segmented, multi-zone network built and validated end-to-end using pfSense, with Snort IDS tuned to detect reconnaissance and aggressive scanning, and pfBlockerNG for content/DNS filtering. Tested against live Nmap scans and traffic-filtering scenarios.
 
 `pfSense` `Snort IDS` `pfBlockerNG` `Kali Linux` `Metasploitable` `Network Segmentation`
@@ -87,18 +87,12 @@ A segmented, multi-zone network built and validated end-to-end using pfSense, wi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[msiuser47]&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[msiuser47]&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
-## 📫 Let's Connect
-
-Open to penetration testing, SOC analyst, and security engineering opportunities.
-
-[![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:[your-email])
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([your-linkedin-url])
 
 <sub>⚠️ All lab and CTF work referenced above was performed in authorized, sanctioned environments (TryHackMe, self-hosted labs) for educational purposes only.</sub>
