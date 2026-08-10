@@ -55,7 +55,7 @@ This profile is a snapshot of that work: hands-on labs, defensive builds, and st
 
 ## 📌 Featured Projects
 
-### 🏝️ [TryHackMe: Hacker Holidays 2026 - The Byte Lotus](https://github.com/msiuser47/TryHackMe/blob/main/events/Hacker-Holidays-2026/README.md)
+### 🏝️ [TryHackMe: Hacker Holidays 2026 - The Byte Lotus ⌛ S O O N ⌛](https://github.com/msiuser47/TryHackMe/blob/main/events/Hacker-Holidays-2026/README.md)
 Full writeups and analysis for a 14-challenge security advent-style CTF, completed 14/14 (Very Easy → Hard). Every challenge follows a consistent pentest-report structure: **Overview → Analysis → Root Cause → Exploitation → Remediation**.
 
 `AI Prompt Injection` `OSINT` `SSTI` `NoSQL Injection` `Zip Slip / RCE` `API Race Conditions` `AWS IAM Abuse` `Azure Key Vault & Managed Identity` `PCAP Forensics` `DPAPI Credential Recovery`
