@@ -87,8 +87,8 @@ A segmented, multi-zone network built and validated end-to-end using pfSense, wi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[msiuser47]&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[msiuser47]&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msiuser47&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msiuser47&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
