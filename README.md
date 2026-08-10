@@ -83,16 +83,5 @@ A segmented, multi-zone network built and validated end-to-end using pfSense, wi
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=msiuser47&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msiuser47&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
 
 <sub>⚠️ All lab and CTF work referenced above was performed in authorized, sanctioned environments (TryHackMe, self-hosted labs) for educational purposes only.</sub>
