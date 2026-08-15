@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-### Cybersecurity Graduate | Penetration Testing · Network Security · SOC & Threat Analysis | Exploring Cloud & AI Security
+### Cybersecurity Graduate | eJPTv2 | SOC & Incident Response | Offensive Security | AI-Assisted Security
 
 [![eJPTv2](https://img.shields.io/badge/Certified-eJPTv2-red?style=for-the-badge)](#)
 
