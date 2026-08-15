@@ -16,7 +16,7 @@ I'm a cybersecurity graduate with hands-on experience across **penetration testi
 
 This profile is a snapshot of that work: hands-on labs, defensive builds, and structured writeups, kept broad across the field rather than tied to one niche.
 
-- 🔭 Currently exploring offensive security, cloud misconfigurations, and AI/LLM security
+- 🔭 Currently exploring cloud misconfigurations, and AI/LLM security
 - 🌱 Continuously building on SOC fundamentals, MITRE ATT&CK, and NIST risk frameworks
 - 🎯 Interested in penetration testing, blue team / SOC analysis, and security engineering roles
 - 💬 Ask me about Kali Linux, Burp Suite, Metasploit, pfSense, or SIEM tooling (Splunk/Wazuh)
