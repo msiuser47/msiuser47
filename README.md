@@ -59,7 +59,6 @@ This profile is a snapshot of that work: hands-on labs, defensive builds, and st
 A structured, scalable repository of TryHackMe rooms and CTF events spanning both offensive and defensive security. Every write-up follows a consistent pentest-report structure: **Overview → Analysis → Root Cause → Exploitation/Findings → Remediation**, with MITRE ATT&CK mapping on Blue Team engagements.
 
 - **[Hacker Holidays 2026 – The Byte Lotus](https://github.com/msiuser47/TryHackMe/blob/main/events/Hacker-Holidays-2026/README.md)** — a 14-challenge security advent-style CTF, completed 14/14 (Very Easy → Hard).
-- **[BoogeyMan 1 (SOC Level 1 Capstone)](https://github.com/msiuser47/TryHackMe/blob/main/rooms/defensive/forensics/soc/README.md)** — a full DFIR investigation covering phishing triage, LNK/PowerShell payload analysis, and PCAP-based C2/exfiltration hunting.
 - Additional rooms across Active Directory, network security, privilege escalation, and web exploitation.
 
 `AI Prompt Injection` `OSINT` `SSTI` `NoSQL Injection` `Zip Slip / RCE` `API Race Conditions` `AWS IAM Abuse` `Azure Key Vault & Managed Identity` `PCAP Forensics` `DPAPI Credential Recovery` `Phishing Triage` `PowerShell Forensics` `C2 Traffic Analysis` `MITRE ATT&CK`
