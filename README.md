@@ -12,7 +12,7 @@
 
 ## 👤 About Me
 
-I'm a cybersecurity graduate with hands-on experience across **penetration testing, network security, SOC analysis, defensive security, database security, and AI-assisted threat analysis**. I like taking security concepts from theory to working, testable systems — whether that means breaking a deliberately vulnerable web app, hardening a segmented network, or documenting a full CTF-style engagement the way a real pentest report would read.
+I'm a cybersecurity graduate with hands-on experience across **penetration testing, network security, SOC analysis, defensive security, database security, and AI-assisted threat analysis**. I like taking security concepts from theory to working, testable systems , whether that means breaking a deliberately vulnerable web app, hardening a segmented network, or documenting a full CTF-style engagement the way a real pentest report would read.
 
 This profile is a snapshot of that work: hands-on labs, defensive builds, and structured writeups, kept broad across the field rather than tied to one niche.
 
