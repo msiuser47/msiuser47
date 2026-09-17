@@ -58,7 +58,7 @@ This profile is a snapshot of that work: hands-on labs, defensive builds, and st
 ### 🛡️ [TryHackMe: Labs & Write-ups](https://github.com/msiuser47/TryHackMe)
 A structured, scalable repository of TryHackMe rooms and CTF events spanning both offensive and defensive security. Every write-up follows a consistent pentest-report structure: **Overview → Analysis → Root Cause → Exploitation/Findings → Remediation**, with MITRE ATT&CK mapping on Blue Team engagements.
 
-- **[Hacker Holidays 2026 – The Byte Lotus](https://github.com/msiuser47/TryHackMe/blob/main/events/Hacker-Holidays-2026/README.md)** — a 14-challenge security advent-style CTF, completed 14/14 (Very Easy → Hard).
+- **[Hacker Holidays 2026 – The Byte Lotus](https://github.com/msiuser47/TryHackMe/blob/main/events/Hacker-Holidays-2026/README.md)** , a 14-challenge security advent-style CTF, completed 14/14 (Very Easy → Hard).
 - Additional rooms across Active Directory, network security, privilege escalation, and web exploitation.
 
 `AI Prompt Injection` `OSINT` `SSTI` `NoSQL Injection` `Zip Slip / RCE` `API Race Conditions` `AWS IAM Abuse` `Azure Key Vault & Managed Identity` `PCAP Forensics` `DPAPI Credential Recovery` `Phishing Triage` `PowerShell Forensics` `C2 Traffic Analysis` `MITRE ATT&CK`
@@ -79,7 +79,7 @@ A MySQL-based banking database designed around core database security principles
 
 ---
 
-### 🌐 [Secure Network Design — pfSense](https://github.com/msiuser47/Secure-Network-with-pfSense)
+### 🌐 [Secure Network Design , pfSense](https://github.com/msiuser47/Secure-Network-with-pfSense)
 A segmented, multi-zone network built and validated end-to-end using pfSense, with Snort IDS tuned to detect reconnaissance and aggressive scanning, and pfBlockerNG for content/DNS filtering. Tested against live Nmap scans and traffic-filtering scenarios.
 
 `pfSense` `Snort IDS` `pfBlockerNG` `Kali Linux` `Metasploitable` `Network Segmentation`
